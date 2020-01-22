@@ -2,3 +2,8 @@ C:\Users\ilaza\source\repos\CalculatorProject\bin\Debug\CalculatorProject.dll
 C:\Users\ilaza\source\repos\CalculatorProject\bin\Debug\CalculatorProject.pdb
 C:\Users\ilaza\source\repos\CalculatorProject\obj\Debug\CalculatorProject.dll
 C:\Users\ilaza\source\repos\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\ilaza\Documents\specflowtestproject\CalculatorProject\bin\Debug\CalculatorProject.dll
+C:\Users\ilaza\Documents\specflowtestproject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\ilaza\Documents\specflowtestproject\CalculatorProject\obj\Debug\CalculatorProject.csprojAssemblyReference.cache
+C:\Users\ilaza\Documents\specflowtestproject\CalculatorProject\obj\Debug\CalculatorProject.dll
+C:\Users\ilaza\Documents\specflowtestproject\CalculatorProject\obj\Debug\CalculatorProject.pdb
